@@ -5,5 +5,5 @@ run: rand
 	./rand
 
 clean:
-	rm *~
 	rm rand
+	rm *~
